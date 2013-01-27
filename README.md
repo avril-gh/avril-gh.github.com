@@ -1,2 +1,1 @@
-
-[Visit my page] (avril-gh.github.com)
+[Visit my page] (http://avril-gh.github.com)
